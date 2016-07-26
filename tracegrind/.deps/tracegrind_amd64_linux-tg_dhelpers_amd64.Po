@@ -1,0 +1,27 @@
+tracegrind_amd64_linux-tg_dhelpers_amd64.o: tg_dhelpers_amd64.c \
+ /usr/include/stdc-predef.h ../include/pub_tool_basics.h \
+ ../VEX/pub/libvex_basictypes.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h \
+ ../include/pub_tool_libcbase.h ../include/pub_tool_basics.h \
+ ../include/pub_tool_mallocfree.h ../VEX/pub/libvex_ir.h \
+ ../VEX/pub/libvex_basictypes.h ../include/avalanche.h
+
+/usr/include/stdc-predef.h:
+
+../include/pub_tool_basics.h:
+
+../VEX/pub/libvex_basictypes.h:
+
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h:
+
+../include/pub_tool_libcbase.h:
+
+../include/pub_tool_basics.h:
+
+../include/pub_tool_mallocfree.h:
+
+../VEX/pub/libvex_ir.h:
+
+../VEX/pub/libvex_basictypes.h:
+
+../include/avalanche.h:

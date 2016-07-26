@@ -1,0 +1,8 @@
+~*
+*.o
+*.a
+Makefile
+*.deb
+*.tar.gz
+*.log
+./bin/
